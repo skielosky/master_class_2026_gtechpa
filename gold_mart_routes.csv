@@ -1,0 +1,70 @@
+origin,dest,origin_city_name,dest_city_name,select_measure_freight,route
+MIA,PTY,"Miami, FL","Panama City, Panama",91063723,MIA -> PTY
+PTY,MIA,"Panama City, Panama","Miami, FL",24310064,PTY -> MIA
+RFD,PTY,"Rockford, IL","Panama City, Panama",6982769,RFD -> PTY
+PTY,RFD,"Panama City, Panama","Rockford, IL",6378263,PTY -> RFD
+SJU,PTY,"San Juan, PR","Panama City, Panama",3728750,SJU -> PTY
+PTY,LAX,"Panama City, Panama","Los Angeles, CA",3411564,PTY -> LAX
+PTY,ROC,"Panama City, Panama","Rochester, NY",2943275,PTY -> ROC
+PTY,IAH,"Panama City, Panama","Houston, TX",2921377,PTY -> IAH
+MEM,PTY,"Memphis, TN","Panama City, Panama",2416280,MEM -> PTY
+PTY,JFK,"Panama City, Panama","New York, NY",1482695,PTY -> JFK
+PTY,ATL,"Panama City, Panama","Atlanta, GA",1241598,PTY -> ATL
+PTY,SJU,"Panama City, Panama","San Juan, PR",1009943,PTY -> SJU
+LAX,PTY,"Los Angeles, CA","Panama City, Panama",1000763,LAX -> PTY
+PTY,ORD,"Panama City, Panama","Chicago, IL",602995,PTY -> ORD
+PTY,EWR,"Panama City, Panama","Newark, NJ",539823,PTY -> EWR
+ATL,PTY,"Atlanta, GA","Panama City, Panama",454453,ATL -> PTY
+PTY,SFO,"Panama City, Panama","San Francisco, CA",428950,PTY -> SFO
+PTY,BOS,"Panama City, Panama","Boston, MA",409708,PTY -> BOS
+SFO,PTY,"San Francisco, CA","Panama City, Panama",250667,SFO -> PTY
+PTY,CVG,"Panama City, Panama","Cincinnati, OH",176387,PTY -> CVG
+PTY,MCO,"Panama City, Panama","Orlando, FL",127697,PTY -> MCO
+PTY,AUS,"Panama City, Panama","Austin, TX",117976,PTY -> AUS
+IAH,PTY,"Houston, TX","Panama City, Panama",110521,IAH -> PTY
+JFK,PTY,"New York, NY","Panama City, Panama",106313,JFK -> PTY
+IAD,PTY,"Washington, DC","Panama City, Panama",105037,IAD -> PTY
+ORD,PTY,"Chicago, IL","Panama City, Panama",80585,ORD -> PTY
+PTY,IAD,"Panama City, Panama","Washington, DC",58615,PTY -> IAD
+PTY,DEN,"Panama City, Panama","Denver, CO",54590,PTY -> DEN
+PTY,LAS,"Panama City, Panama","Las Vegas, NV",51661,PTY -> LAS
+PTY,FLL,"Panama City, Panama","Fort Lauderdale, FL",40809,PTY -> FLL
+EWR,PTY,"Newark, NJ","Panama City, Panama",38744,EWR -> PTY
+MCO,PTY,"Orlando, FL","Panama City, Panama",20112,MCO -> PTY
+PTY,BWI,"Panama City, Panama","Baltimore, MD",16508,PTY -> BWI
+PTY,RDU,"Panama City, Panama","Raleigh/Durham, NC",12540,PTY -> RDU
+BOS,PTY,"Boston, MA","Panama City, Panama",9771,BOS -> PTY
+FLL,PTY,"Fort Lauderdale, FL","Panama City, Panama",9400,FLL -> PTY
+AUS,PTY,"Austin, TX","Panama City, Panama",8336,AUS -> PTY
+DEN,PTY,"Denver, CO","Panama City, Panama",6574,DEN -> PTY
+BWI,PTY,"Baltimore, MD","Panama City, Panama",2099,BWI -> PTY
+RDU,PTY,"Raleigh/Durham, NC","Panama City, Panama",1591,RDU -> PTY
+LAS,PTY,"Las Vegas, NV","Panama City, Panama",1430,LAS -> PTY
+AZA,PTY,"Phoenix, AZ","Panama City, Panama",0,AZA -> PTY
+AFW,HOW,"Dallas/Fort Worth, TX","Balboa, Panama",0,AFW -> HOW
+AEX,PTY,"Alexandria, LA","Panama City, Panama",0,AEX -> PTY
+PTY,AEX,"Panama City, Panama","Alexandria, LA",0,PTY -> AEX
+IAD,ACU,"Washington, DC","Achutupo, Panama",0,IAD -> ACU
+HOW,HRL,"Balboa, Panama","Harlingen/San Benito, TX",0,HOW -> HRL
+DAL,PTY,"Dallas, TX","Panama City, Panama",0,DAL -> PTY
+HOW,AEX,"Balboa, Panama","Alexandria, LA",0,HOW -> AEX
+LAX,RIH,"Los Angeles, CA","Rio Hato, Panama",0,LAX -> RIH
+HRL,HOW,"Harlingen/San Benito, TX","Balboa, Panama",0,HRL -> HOW
+HOW,MIA,"Balboa, Panama","Miami, FL",0,HOW -> MIA
+LAL,PTY,"Lakeland, FL","Panama City, Panama",0,LAL -> PTY
+PTY,CHS,"Panama City, Panama","Charleston, SC",0,PTY -> CHS
+PTY,CLT,"Panama City, Panama","Charlotte, NC",0,PTY -> CLT
+MIA,HOW,"Miami, FL","Balboa, Panama",0,MIA -> HOW
+PTY,PHL,"Panama City, Panama","Philadelphia, PA",0,PTY -> PHL
+PTY,HRL,"Panama City, Panama","Harlingen/San Benito, TX",0,PTY -> HRL
+PTY,MSY,"Panama City, Panama","New Orleans, LA",0,PTY -> MSY
+PTY,MFE,"Panama City, Panama","Mission/McAllen/Edinburg, TX",0,PTY -> MFE
+PTY,DFW,"Panama City, Panama","Dallas/Fort Worth, TX",0,PTY -> DFW
+PTY,SAT,"Panama City, Panama","San Antonio, TX",0,PTY -> SAT
+PTY,SAV,"Panama City, Panama","Savannah, GA",0,PTY -> SAV
+PTY,RST,"Panama City, Panama","Rochester, MN",0,PTY -> RST
+PTY,SAN,"Panama City, Panama","San Diego, CA",0,PTY -> SAN
+RIH,LAX,"Rio Hato, Panama","Los Angeles, CA",0,RIH -> LAX
+PTY,TPA,"Panama City, Panama","Tampa, FL",0,PTY -> TPA
+SAN,PTY,"San Diego, CA","Panama City, Panama",0,SAN -> PTY
+TPA,PTY,"Tampa, FL","Panama City, Panama",0,TPA -> PTY

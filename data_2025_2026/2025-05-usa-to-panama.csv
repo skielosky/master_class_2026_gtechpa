@@ -1,0 +1,54 @@
+﻿Carrier Name;Dest;Origin;PlaneDirection_EW 1;Dest City Name;Dest Country Name;Month;Origin City Name;Origin Country Name;Year;Latitud (generado);Longitud (generado);Máx. Distance;DestPoint;RouteLine;Select Measure_Freight
+United Parcel Service;PTY;MIA;;Panama City, Panama;Panama;May;Miami, FL;United States;2025;17,433844895;-79,815741585;1152;;LineString;949886
+United Air Lines Inc.;PTY;SFO;;Panama City, Panama;Panama;May;San Francisco, CA;United States;2025;24,864642562;-98,403280824;3320;;LineString;88
+United Air Lines Inc.;PTY;IAH;;Panama City, Panama;Panama;May;Houston, TX;United States;2025;19,703413282;-86,836703266;1771;;LineString;7132
+United Air Lines Inc.;PTY;EWR;;Panama City, Panama;Panama;May;Newark, NJ;United States;2025;24,904213115;-77,118642278;2200;;LineString;1363
+Transportes Aereos Mercantiles Panamericanos S.A;PTY;MIA;;Panama City, Panama;Panama;May;Miami, FL;United States;2025;17,433844895;-79,815741585;1152;;LineString;666864
+Omni Air International LLC;HOW;AFW;;Balboa, Panama;Panama;May;Dallas/Fort Worth, TX;United States;2025;21,181781081;-87,730355521;2006;;LineString;0
+Lan Colombia;PTY;MIA;;Panama City, Panama;Panama;May;Miami, FL;United States;2025;17,433844895;-79,815741585;1152;;LineString;400816
+Federal Express Corporation;PTY;SJU;;Panama City, Panama;Panama;May;San Juan, PR;United States;2025;13,846080491;-72,827586045;1105;;LineString;8
+Federal Express Corporation;PTY;MEM;;Panama City, Panama;Panama;May;Memphis, TN;United States;2025;22,141655850;-84,183697183;1909;;LineString;31075
+Delta Air Lines Inc.;PTY;ATL;;Panama City, Panama;Panama;May;Atlanta, GA;United States;2025;21,372733026;-81,690850142;1720;;LineString;19622
+Compania Panamena (Copa);PTY;TPA;;Panama City, Panama;Panama;May;Tampa, FL;United States;2025;18,529974736;-80,870457319;1316;;LineString;0
+Compania Panamena (Copa);PTY;SJU;;Panama City, Panama;Panama;May;San Juan, PR;United States;2025;13,846080491;-72,827586045;1105;;LineString;0
+Compania Panamena (Copa);PTY;SFO;;Panama City, Panama;Panama;May;San Francisco, CA;United States;2025;24,864642562;-98,403280824;3320;;LineString;0
+Compania Panamena (Copa);PTY;RDU;;Panama City, Panama;Panama;May;Raleigh/Durham, NC;United States;2025;22,473882037;-79,114782005;1845;;LineString;0
+Compania Panamena (Copa);PTY;ORD;;Panama City, Panama;Panama;May;Chicago, IL;United States;2025;25,583440798;-83,043643376;2324;;LineString;0
+Compania Panamena (Copa);PTY;MIA;;Panama City, Panama;Panama;May;Miami, FL;United States;2025;17,433844895;-79,815741585;1152;;LineString;0
+Compania Panamena (Copa);PTY;MCO;;Panama City, Panama;Panama;May;Orlando, FL;United States;2025;18,752731963;-80,290364710;1337;;LineString;0
+Compania Panamena (Copa);PTY;LAX;;Panama City, Panama;Panama;May;Los Angeles, CA;United States;2025;22,678241331;-97,132382841;3010;;LineString;0
+Compania Panamena (Copa);PTY;LAS;;Panama City, Panama;Panama;May;Las Vegas, NV;United States;2025;23,588307415;-95,422327731;2916;;LineString;0
+Compania Panamena (Copa);PTY;JFK;;Panama City, Panama;Panama;May;New York, NY;United States;2025;24,881262341;-76,948338783;2200;;LineString;0
+Compania Panamena (Copa);PTY;IAD;;Panama City, Panama;Panama;May;Washington, DC;United States;2025;24,012396855;-78,536691786;2060;;LineString;0
+Compania Panamena (Copa);PTY;FLL;;Panama City, Panama;Panama;May;Fort Lauderdale, FL;United States;2025;17,571759817;-79,749847713;1170;;LineString;0
+Compania Panamena (Copa);PTY;DEN;;Panama City, Panama;Panama;May;Denver, CO;United States;2025;24,992173559;-90,418135393;2631;;LineString;0
+Compania Panamena (Copa);PTY;BWI;;Panama City, Panama;Panama;May;Baltimore, MD;United States;2025;24,129243565;-78,189585639;2079;;LineString;0
+Compania Panamena (Copa);PTY;BOS;;Panama City, Panama;Panama;May;Boston, MA;United States;2025;25,775921978;-75,799301682;2348;;LineString;0
+Compania Panamena (Copa);PTY;AUS;;Panama City, Panama;Panama;May;Austin, TX;United States;2025;19,864876959;-87,913327834;1873;;LineString;0
+Compania Panamena (Copa);PTY;ATL;;Panama City, Panama;Panama;May;Atlanta, GA;United States;2025;21,372733026;-81,690850142;1720;;LineString;0
+Amerijet International;PTY;RFD;;Panama City, Panama;Panama;May;Rockford, IL;United States;2025;25,712166292;-83,545569958;2356;;LineString;537565
+Amerijet International;PTY;MIA;;Panama City, Panama;Panama;May;Miami, FL;United States;2025;17,433844895;-79,815741585;1152;;LineString;946747
+American Airlines Inc.;PTY;MIA;;Panama City, Panama;Panama;May;Miami, FL;United States;2025;17,433844895;-79,815741585;1152;;LineString;7147
+ABX Air Inc;PTY;MIA;;Panama City, Panama;Panama;May;Miami, FL;United States;2025;17,433844895;-79,815741585;1152;;LineString;1867935
+;PTY;SJU;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;RDU;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;JFK;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;IAD;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;EWR;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;BWI;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;BOS;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;TPA;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;SFO;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;RFD;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;ORD;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MIA;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MEM;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MCO;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;LAX;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;LAS;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;IAH;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;FLL;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;DEN;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;AUS;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;ATL;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;HOW;AFW;East;;;;;;;8,915000024;-79,599722195;;Point;;

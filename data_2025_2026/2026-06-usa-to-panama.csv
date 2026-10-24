@@ -1,0 +1,21 @@
+﻿Carrier Name;Dest;Origin;PlaneDirection_EW 1;Dest City Name;Dest Country Name;Month;Origin City Name;Origin Country Name;Year;Latitud (generado);Longitud (generado);Máx. Distance;DestPoint;RouteLine;Select Measure_Freight
+United Parcel Service;PTY;MIA;;Panama City, Panama;Panama;June;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;1132965
+United Air Lines Inc.;PTY;IAH;;Panama City, Panama;Panama;June;Houston, TX;United States;2026;19,703413282;-86,836703266;1771;;LineString;6632
+United Air Lines Inc.;PTY;EWR;;Panama City, Panama;Panama;June;Newark, NJ;United States;2026;24,904213115;-77,118642278;2200;;LineString;2130
+Transportes Aereos Mercantiles Panamericanos S.A;PTY;MIA;;Panama City, Panama;Panama;June;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;382547
+Lan Ecuador;PTY;MIA;;Panama City, Panama;Panama;June;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;347864
+Lan Colombia;PTY;MIA;;Panama City, Panama;Panama;June;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;19923
+Global Crossing Airlines, Inc.;HOW;HRL;;Balboa, Panama;Panama;June;Harlingen/San Benito, TX;United States;2026;17,776638466;-88,188291275;1679;;LineString;0
+Federal Express Corporation;PTY;SJU;;Panama City, Panama;Panama;June;San Juan, PR;United States;2026;13,846080491;-72,827586045;1105;;LineString;648135
+Federal Express Corporation;PTY;MEM;;Panama City, Panama;Panama;June;Memphis, TN;United States;2026;22,141655850;-84,183697183;1909;;LineString;70817
+Delta Air Lines Inc.;PTY;ATL;;Panama City, Panama;Panama;June;Atlanta, GA;United States;2026;21,372733026;-81,690850142;1720;;LineString;38803
+Amerijet International;PTY;MIA;;Panama City, Panama;Panama;June;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;777496
+American Airlines Inc.;PTY;MIA;;Panama City, Panama;Panama;June;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;6883
+ABX Air Inc;PTY;MIA;;Panama City, Panama;Panama;June;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;1530220
+;PTY;SJU;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;EWR;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MIA;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MEM;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;IAH;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;ATL;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;HOW;HRL;East;;;;;;;8,914722214;-79,599722195;;Point;;

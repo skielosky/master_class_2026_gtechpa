@@ -1,0 +1,18 @@
+﻿Carrier Name;Dest;Origin;PlaneDirection_EW 1;Dest City Name;Dest Country Name;Month;Origin City Name;Origin Country Name;Year;Latitud (generado);Longitud (generado);Máx. Distance;DestPoint;RouteLine;Select Measure_Freight
+United Air Lines Inc.;PHL;PTY;;Philadelphia, PA;United States;June;Panama City, Panama;Panama;2026;24,485565898;-77,571858737;2136;;LineString;0
+United Air Lines Inc.;IAH;PTY;;Houston, TX;United States;June;Panama City, Panama;Panama;2026;19,703413282;-86,836703266;1771;;LineString;148566
+United Air Lines Inc.;EWR;PTY;;Newark, NJ;United States;June;Panama City, Panama;Panama;2026;24,904213115;-77,118642278;2200;;LineString;43809
+Lan Colombia;LAX;PTY;;Los Angeles, CA;United States;June;Panama City, Panama;Panama;2026;22,678241331;-97,132382841;3010;;LineString;107023
+Global Crossing Airlines, Inc.;HRL;HOW;;Harlingen/San Benito, TX;United States;June;Balboa, Panama;Panama;2026;17,776638466;-88,188291275;1679;;LineString;0
+Delta Air Lines Inc.;ATL;PTY;;Atlanta, GA;United States;June;Panama City, Panama;Panama;2026;21,372733026;-81,690850142;1720;;LineString;38230
+China Southern Airlines;LAX;PTY;;Los Angeles, CA;United States;June;Panama City, Panama;Panama;2026;22,678241331;-97,132382841;3010;;LineString;244543
+Amerijet International;MIA;PTY;;Miami, FL;United States;June;Panama City, Panama;Panama;2026;17,433844895;-79,815741585;1152;;LineString;111764
+American Airlines Inc.;MIA;PTY;;Miami, FL;United States;June;Panama City, Panama;Panama;2026;17,433844895;-79,815741585;1152;;LineString;23468
+ABX Air Inc;MIA;PTY;;Miami, FL;United States;June;Panama City, Panama;Panama;2026;17,433844895;-79,815741585;1152;;LineString;29773
+;MIA;PTY;West;;;;;;;25,796111108;-80,289722237;;Point;;
+;LAX;PTY;West;;;;;;;33,943055565;-118,408888893;;Point;;
+;IAH;PTY;West;;;;;;;29,985555567;-95,341111097;;Point;;
+;HRL;HOW;West;;;;;;;26,226388861;-97,654444430;;Point;;
+;ATL;PTY;West;;;;;;;33,636666683;-84,428055568;;Point;;
+;PHL;PTY;East;;;;;;;39,874166656;-75,236666670;;Point;;
+;EWR;PTY;East;;;;;;;40,693611098;-74,168611119;;Point;;

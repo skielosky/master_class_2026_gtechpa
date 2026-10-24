@@ -1,0 +1,57 @@
+﻿Carrier Name;Dest;Origin;PlaneDirection_EW 1;Dest City Name;Dest Country Name;Month;Origin City Name;Origin Country Name;Year;Latitud (generado);Longitud (generado);Máx. Distance;DestPoint;RouteLine;Select Measure_Freight
+VistaJet Limited;PTY;JFK;;Panama City, Panama;Panama;February;New York, NY;United States;2026;24,881262341;-76,948338783;2200;;LineString;0
+United Parcel Service;PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;927832
+United Air Lines Inc.;PTY;IAH;;Panama City, Panama;Panama;February;Houston, TX;United States;2026;19,703413282;-86,836703266;1771;;LineString;5571
+United Air Lines Inc.;PTY;EWR;;Panama City, Panama;Panama;February;Newark, NJ;United States;2026;24,904213115;-77,118642278;2200;;LineString;1040
+Transportes Aereos Mercantiles Panamericanos S.A;PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;611970
+Sun Country Airlines d/b/a MN Airlines;RIH;LAX;;Rio Hato, Panama;Panama;February;Los Angeles, CA;United States;2026;22,270087993;-97,522466157;3003;;LineString;0
+Lan Ecuador;PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;268162
+Federal Express Corporation;PTY;SJU;;Panama City, Panama;Panama;February;San Juan, PR;United States;2026;13,846080491;-72,827586045;1105;;LineString;1150
+Federal Express Corporation;PTY;MEM;;Panama City, Panama;Panama;February;Memphis, TN;United States;2026;22,141655850;-84,183697183;1909;;LineString;429874
+Delta Air Lines Inc.;PTY;ATL;;Panama City, Panama;Panama;February;Atlanta, GA;United States;2026;21,372733026;-81,690850142;1720;;LineString;26127
+Compania Panamena (Copa);PTY;TPA;;Panama City, Panama;Panama;February;Tampa, FL;United States;2026;18,529974736;-80,870457319;1316;;LineString;0
+Compania Panamena (Copa);PTY;SJU;;Panama City, Panama;Panama;February;San Juan, PR;United States;2026;13,846080491;-72,827586045;1105;;LineString;1936
+Compania Panamena (Copa);PTY;SFO;;Panama City, Panama;Panama;February;San Francisco, CA;United States;2026;24,864642562;-98,403280824;3320;;LineString;25518
+Compania Panamena (Copa);PTY;SAN;;Panama City, Panama;Panama;February;San Diego, CA;United States;2026;21,975714849;-96,717253108;2911;;LineString;0
+Compania Panamena (Copa);PTY;RDU;;Panama City, Panama;Panama;February;Raleigh/Durham, NC;United States;2026;22,473882037;-79,114782005;1845;;LineString;711
+Compania Panamena (Copa);PTY;ORD;;Panama City, Panama;Panama;February;Chicago, IL;United States;2026;25,583440798;-83,043643376;2324;;LineString;11398
+Compania Panamena (Copa);PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;186129
+Compania Panamena (Copa);PTY;MCO;;Panama City, Panama;Panama;February;Orlando, FL;United States;2026;18,752731963;-80,290364710;1337;;LineString;801
+Compania Panamena (Copa);PTY;LAX;;Panama City, Panama;Panama;February;Los Angeles, CA;United States;2026;22,678241331;-97,132382841;3010;;LineString;130942
+Compania Panamena (Copa);PTY;LAS;;Panama City, Panama;Panama;February;Las Vegas, NV;United States;2026;23,588307415;-95,422327731;2916;;LineString;330
+Compania Panamena (Copa);PTY;JFK;;Panama City, Panama;Panama;February;New York, NY;United States;2026;24,881262341;-76,948338783;2200;;LineString;11097
+Compania Panamena (Copa);PTY;IAD;;Panama City, Panama;Panama;February;Washington, DC;United States;2026;24,012396855;-78,536691786;2060;;LineString;12573
+Compania Panamena (Copa);PTY;FLL;;Panama City, Panama;Panama;February;Fort Lauderdale, FL;United States;2026;17,571759817;-79,749847713;1170;;LineString;0
+Compania Panamena (Copa);PTY;DEN;;Panama City, Panama;Panama;February;Denver, CO;United States;2026;24,992173559;-90,418135393;2631;;LineString;1364
+Compania Panamena (Copa);PTY;BWI;;Panama City, Panama;Panama;February;Baltimore, MD;United States;2026;24,129243565;-78,189585639;2079;;LineString;748
+Compania Panamena (Copa);PTY;BOS;;Panama City, Panama;Panama;February;Boston, MA;United States;2026;25,775921978;-75,799301682;2348;;LineString;1228
+Compania Panamena (Copa);PTY;AUS;;Panama City, Panama;Panama;February;Austin, TX;United States;2026;19,864876959;-87,913327834;1873;;LineString;218
+Compania Panamena (Copa);PTY;ATL;;Panama City, Panama;Panama;February;Atlanta, GA;United States;2026;21,372733026;-81,690850142;1720;;LineString;0
+Comlux Malta, Ltd.;PTY;DAL;;Panama City, Panama;Panama;February;Dallas, TX;United States;2026;21,181313229;-87,407420610;1980;;LineString;0
+Atlas Air Inc.;PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;463
+Amerijet International;PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;594215
+American Airlines Inc.;PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;13580
+ABX Air Inc;PTY;MIA;;Panama City, Panama;Panama;February;Miami, FL;United States;2026;17,433844895;-79,815741585;1152;;LineString;1456040
+;PTY;SJU;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;RDU;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;JFK;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;IAD;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;EWR;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;BWI;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;BOS;West;;;;;;;9,071388884;-79,383333326;;Point;;
+;RIH;LAX;East;;;;;;;8,375833312;-80,127777787;;Point;;
+;PTY;TPA;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;SFO;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;SAN;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;ORD;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MIA;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MEM;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;MCO;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;LAX;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;LAS;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;IAH;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;FLL;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;DEN;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;DAL;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;AUS;East;;;;;;;9,071388884;-79,383333326;;Point;;
+;PTY;ATL;East;;;;;;;9,071388884;-79,383333326;;Point;;

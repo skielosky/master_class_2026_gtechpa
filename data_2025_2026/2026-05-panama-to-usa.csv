@@ -1,0 +1,48 @@
+﻿Carrier Name;Dest;Origin;PlaneDirection_EW 1;Dest City Name;Dest Country Name;Month;Origin City Name;Origin Country Name;Year;Latitud (generado);Longitud (generado);Máx. Distance;DestPoint;RouteLine;Select Measure_Freight
+United Air Lines Inc.;IAH;PTY;;Houston, TX;United States;May;Panama City, Panama;Panama;2026;19,703413282;-86,836703266;1771;;LineString;187888
+United Air Lines Inc.;EWR;PTY;;Newark, NJ;United States;May;Panama City, Panama;Panama;2026;24,904213115;-77,118642278;2200;;LineString;31710
+Lan Colombia;LAX;PTY;;Los Angeles, CA;United States;May;Panama City, Panama;Panama;2026;22,678241331;-97,132382841;3010;;LineString;113089
+Global Crossing Airlines, Inc.;AEX;HOW;;Alexandria, LA;United States;May;Balboa, Panama;Panama;2026;20,237057683;-85,601591208;1752;;LineString;0
+Delta Air Lines Inc.;ATL;PTY;;Atlanta, GA;United States;May;Panama City, Panama;Panama;2026;21,372733026;-81,690850142;1720;;LineString;56605
+Compania Panamena (Copa);TPA;PTY;;Tampa, FL;United States;May;Panama City, Panama;Panama;2026;18,529974736;-80,870457319;1316;;LineString;0
+Compania Panamena (Copa);SJU;PTY;;San Juan, PR;United States;May;Panama City, Panama;Panama;2026;13,846080491;-72,827586045;1105;;LineString;152205
+Compania Panamena (Copa);SFO;PTY;;San Francisco, CA;United States;May;Panama City, Panama;Panama;2026;24,864642562;-98,403280824;3320;;LineString;7922
+Compania Panamena (Copa);SAN;PTY;;San Diego, CA;United States;May;Panama City, Panama;Panama;2026;21,975714849;-96,717253108;2911;;LineString;0
+Compania Panamena (Copa);RDU;PTY;;Raleigh/Durham, NC;United States;May;Panama City, Panama;Panama;2026;22,473882037;-79,114782005;1845;;LineString;2037
+Compania Panamena (Copa);ORD;PTY;;Chicago, IL;United States;May;Panama City, Panama;Panama;2026;25,583440798;-83,043643376;2324;;LineString;52494
+Compania Panamena (Copa);MIA;PTY;;Miami, FL;United States;May;Panama City, Panama;Panama;2026;17,433844895;-79,815741585;1152;;LineString;712087
+Compania Panamena (Copa);MCO;PTY;;Orlando, FL;United States;May;Panama City, Panama;Panama;2026;18,752731963;-80,290364710;1337;;LineString;24490
+Compania Panamena (Copa);LAX;PTY;;Los Angeles, CA;United States;May;Panama City, Panama;Panama;2026;22,678241331;-97,132382841;3010;;LineString;163693
+Compania Panamena (Copa);LAS;PTY;;Las Vegas, NV;United States;May;Panama City, Panama;Panama;2026;23,588307415;-95,422327731;2916;;LineString;5247
+Compania Panamena (Copa);JFK;PTY;;New York, NY;United States;May;Panama City, Panama;Panama;2026;24,881262341;-76,948338783;2200;;LineString;256914
+Compania Panamena (Copa);IAD;PTY;;Washington, DC;United States;May;Panama City, Panama;Panama;2026;24,012396855;-78,536691786;2060;;LineString;14984
+Compania Panamena (Copa);FLL;PTY;;Fort Lauderdale, FL;United States;May;Panama City, Panama;Panama;2026;17,571759817;-79,749847713;1170;;LineString;6644
+Compania Panamena (Copa);DEN;PTY;;Denver, CO;United States;May;Panama City, Panama;Panama;2026;24,992173559;-90,418135393;2631;;LineString;4884
+Compania Panamena (Copa);BWI;PTY;;Baltimore, MD;United States;May;Panama City, Panama;Panama;2026;24,129521375;-78,189590941;2079;;LineString;9643
+Compania Panamena (Copa);BOS;PTY;;Boston, MA;United States;May;Panama City, Panama;Panama;2026;25,775921978;-75,799301682;2348;;LineString;120230
+Compania Panamena (Copa);AUS;PTY;;Austin, TX;United States;May;Panama City, Panama;Panama;2026;19,864876959;-87,913327834;1873;;LineString;23815
+Compania Panamena (Copa);ATL;PTY;;Atlanta, GA;United States;May;Panama City, Panama;Panama;2026;21,372733026;-81,690850142;1720;;LineString;5174
+China Southern Airlines;LAX;PTY;;Los Angeles, CA;United States;May;Panama City, Panama;Panama;2026;22,678241331;-97,132382841;3010;;LineString;489086
+Amerijet International;MIA;PTY;;Miami, FL;United States;May;Panama City, Panama;Panama;2026;17,433844895;-79,815741585;1152;;LineString;189902
+American Airlines Inc.;MIA;PTY;;Miami, FL;United States;May;Panama City, Panama;Panama;2026;17,433844895;-79,815741585;1152;;LineString;18492
+;TPA;PTY;West;;;;;;;27,975555571;-82,533333309;;Point;;
+;SFO;PTY;West;;;;;;;37,618888905;-122,375555584;;Point;;
+;SAN;PTY;West;;;;;;;32,733611126;-117,189722202;;Point;;
+;ORD;PTY;West;;;;;;;41,976944461;-87,908055540;;Point;;
+;MIA;PTY;West;;;;;;;25,796111108;-80,289722237;;Point;;
+;MCO;PTY;West;;;;;;;28,429166680;-81,306666662;;Point;;
+;LAX;PTY;West;;;;;;;33,943055565;-118,408888893;;Point;;
+;LAS;PTY;West;;;;;;;36,079999975;-115,152222248;;Point;;
+;IAH;PTY;West;;;;;;;29,985555567;-95,341111097;;Point;;
+;FLL;PTY;West;;;;;;;26,071388868;-80,149444467;;Point;;
+;DEN;PTY;West;;;;;;;39,861111111;-104,671944457;;Point;;
+;AUS;PTY;West;;;;;;;30,194444419;-97,670000022;;Point;;
+;ATL;PTY;West;;;;;;;33,636666683;-84,428055568;;Point;;
+;AEX;HOW;West;;;;;;;31,323333349;-92,546944444;;Point;;
+;SJU;PTY;East;;;;;;;18,439444458;-66,002222221;;Point;;
+;RDU;PTY;East;;;;;;;35,875833344;-78,785555533;;Point;;
+;JFK;PTY;East;;;;;;;40,639999987;-73,778611121;;Point;;
+;IAD;PTY;East;;;;;;;38,956111128;-77,461666667;;Point;;
+;EWR;PTY;East;;;;;;;40,693611098;-74,168611119;;Point;;
+;BWI;PTY;East;;;;;;;39,175833351;-76,668888875;;Point;;
+;BOS;PTY;East;;;;;;;42,363055545;-71,006944457;;Point;;

@@ -1,0 +1,51 @@
+﻿Carrier Name;Dest;Origin;PlaneDirection_EW 1;Dest City Name;Dest Country Name;Month;Origin City Name;Origin Country Name;Year;Latitud (generado);Longitud (generado);Máx. Distance;DestPoint;RouteLine;Select Measure_Freight
+United Air Lines Inc.;MFE;PTY;;Mission/McAllen/Edinburg, TX;United States;January;Panama City, Panama;Panama;2025;17,849162720;-88,356490777;1707;;LineString;0
+United Air Lines Inc.;IAH;PTY;;Houston, TX;United States;January;Panama City, Panama;Panama;2025;19,703413282;-86,836703266;1771;;LineString;192125
+United Air Lines Inc.;EWR;PTY;;Newark, NJ;United States;January;Panama City, Panama;Panama;2025;24,904213115;-77,118642278;2200;;LineString;31815
+United Air Lines Inc.;AUS;PTY;;Austin, TX;United States;January;Panama City, Panama;Panama;2025;19,864876959;-87,913327834;1873;;LineString;0
+Global Crossing Airlines, Inc.;AEX;PTY;;Alexandria, LA;United States;January;Panama City, Panama;Panama;2025;20,321909495;-85,487493159;1750;;LineString;0
+DHL Aero Expresso;MIA;PTY;;Miami, FL;United States;January;Panama City, Panama;Panama;2025;17,433844895;-79,815741585;1152;;LineString;3975385
+Delta Air Lines Inc.;ATL;PTY;;Atlanta, GA;United States;January;Panama City, Panama;Panama;2025;21,372733026;-81,690850142;1720;;LineString;75267
+Compania Panamena (Copa);TPA;PTY;;Tampa, FL;United States;January;Panama City, Panama;Panama;2025;18,529974736;-80,870457319;1316;;LineString;0
+Compania Panamena (Copa);SJU;PTY;;San Juan, PR;United States;January;Panama City, Panama;Panama;2025;13,846080491;-72,827586045;1105;;LineString;0
+Compania Panamena (Copa);SFO;PTY;;San Francisco, CA;United States;January;Panama City, Panama;Panama;2025;24,864642562;-98,403280824;3320;;LineString;0
+Compania Panamena (Copa);RDU;PTY;;Raleigh/Durham, NC;United States;January;Panama City, Panama;Panama;2025;22,473882037;-79,114782005;1845;;LineString;0
+Compania Panamena (Copa);ORD;PTY;;Chicago, IL;United States;January;Panama City, Panama;Panama;2025;25,583440798;-83,043643376;2324;;LineString;0
+Compania Panamena (Copa);MIA;PTY;;Miami, FL;United States;January;Panama City, Panama;Panama;2025;17,433844895;-79,815741585;1152;;LineString;0
+Compania Panamena (Copa);MCO;PTY;;Orlando, FL;United States;January;Panama City, Panama;Panama;2025;18,752731963;-80,290364710;1337;;LineString;0
+Compania Panamena (Copa);LAX;PTY;;Los Angeles, CA;United States;January;Panama City, Panama;Panama;2025;22,678241331;-97,132382841;3010;;LineString;0
+Compania Panamena (Copa);LAS;PTY;;Las Vegas, NV;United States;January;Panama City, Panama;Panama;2025;23,588307415;-95,422327731;2916;;LineString;0
+Compania Panamena (Copa);JFK;PTY;;New York, NY;United States;January;Panama City, Panama;Panama;2025;24,881262341;-76,948338783;2200;;LineString;0
+Compania Panamena (Copa);IAD;PTY;;Washington, DC;United States;January;Panama City, Panama;Panama;2025;24,012396855;-78,536691786;2060;;LineString;0
+Compania Panamena (Copa);FLL;PTY;;Fort Lauderdale, FL;United States;January;Panama City, Panama;Panama;2025;17,571759817;-79,749847713;1170;;LineString;0
+Compania Panamena (Copa);DEN;PTY;;Denver, CO;United States;January;Panama City, Panama;Panama;2025;24,992173559;-90,418135393;2631;;LineString;0
+Compania Panamena (Copa);BWI;PTY;;Baltimore, MD;United States;January;Panama City, Panama;Panama;2025;24,129521375;-78,189590941;2079;;LineString;0
+Compania Panamena (Copa);BOS;PTY;;Boston, MA;United States;January;Panama City, Panama;Panama;2025;25,775921978;-75,799301682;2348;;LineString;0
+Compania Panamena (Copa);AUS;PTY;;Austin, TX;United States;January;Panama City, Panama;Panama;2025;19,864876959;-87,913327834;1873;;LineString;0
+Compania Panamena (Copa);ATL;PTY;;Atlanta, GA;United States;January;Panama City, Panama;Panama;2025;21,372733026;-81,690850142;1720;;LineString;0
+Cargojet Airways Ltd.;MIA;PTY;;Miami, FL;United States;January;Panama City, Panama;Panama;2025;17,433844895;-79,815741585;1152;;LineString;295088
+Amerijet International;MIA;PTY;;Miami, FL;United States;January;Panama City, Panama;Panama;2025;17,433844895;-79,815741585;1152;;LineString;65750
+American Airlines Inc.;MIA;PTY;;Miami, FL;United States;January;Panama City, Panama;Panama;2025;17,433844895;-79,815741585;1152;;LineString;8767
+ABX Air Inc;ROC;PTY;;Rochester, NY;United States;January;Panama City, Panama;Panama;2025;26,097745283;-78,655974972;2347;;LineString;1115509
+;TPA;PTY;West;;;;;;;27,975555571;-82,533333309;;Point;;
+;SFO;PTY;West;;;;;;;37,618888905;-122,375555584;;Point;;
+;ORD;PTY;West;;;;;;;41,976944461;-87,908055540;;Point;;
+;MIA;PTY;West;;;;;;;25,795277800;-80,289999986;;Point;;
+;MFE;PTY;West;;;;;;;26,175833355;-98,238611118;;Point;;
+;MCO;PTY;West;;;;;;;28,429444429;-81,308888898;;Point;;
+;LAX;PTY;West;;;;;;;33,942500006;-118,408055585;;Point;;
+;LAS;PTY;West;;;;;;;36,079999975;-115,152222248;;Point;;
+;IAH;PTY;West;;;;;;;29,984444449;-95,341388907;;Point;;
+;FLL;PTY;West;;;;;;;26,071666678;-80,149722216;;Point;;
+;DEN;PTY;West;;;;;;;39,861666670;-104,673055575;;Point;;
+;AUS;PTY;West;;;;;;;30,194444419;-97,670000022;;Point;;
+;ATL;PTY;West;;;;;;;33,636666683;-84,427777758;;Point;;
+;AEX;PTY;West;;;;;;;31,327500011;-92,548611121;;Point;;
+;SJU;PTY;East;;;;;;;18,439444458;-66,002222221;;Point;;
+;ROC;PTY;East;;;;;;;43,119166685;-77,671944447;;Point;;
+;RDU;PTY;East;;;;;;;35,877777770;-78,787500020;;Point;;
+;JFK;PTY;East;;;;;;;40,639999987;-73,778611121;;Point;;
+;IAD;PTY;East;;;;;;;38,947499993;-77,459999990;;Point;;
+;EWR;PTY;East;;;;;;;40,692499980;-74,168611119;;Point;;
+;BWI;PTY;East;;;;;;;39,175833351;-76,668888875;;Point;;
+;BOS;PTY;East;;;;;;;42,363055545;-71,006388898;;Point;;
